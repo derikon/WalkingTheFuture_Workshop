@@ -1,6 +1,6 @@
 # Toe to Top @ CHI2024
 
-This repository hosts the code for the website of the [Toe to Top: From Foot Augmentation to Human Augmentation](https://sensint.github.io/ToeToTop_Workshop/) workshop at the [CHI 2024](https://chi2024.acm.org/) conference.
+This repository hosts the code for the website of the [Toe to Top: From Foot Augmentation to Human Augmentation](https://derikon.github.io/ToeToTop_Workshop/) workshop at the [CHI 2024](https://chi2024.acm.org/) conference.
 
 ## Abstract
 
