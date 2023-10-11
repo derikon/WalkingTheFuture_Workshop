@@ -10,7 +10,7 @@
 # Custom style
 --------------------------------------------------------------*/
 
-ul.about-details{
+ul.about-details {
   list-style-type: none;
 }
 
@@ -25,76 +25,76 @@ ul.about-details{
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #f82249;
+  color: #22f898;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 2px solid #22f898;
   display: table;
   margin: 0 auto;
 }
 
-#cfp .details{
+#cfp .details {
   margin-bottom: 24px;
 }
 
 #apply-cfp.apply-btn:hover {
-  background: #f82249;
+  background: #22f898;
   color: #fff;
 }
 
 
-.need-confirmation{
+.need-confirmation {
   font-size: 14px;
-  color: #f82249;
+  color: #22f898;
 }
 
-#workshop-details{
+#workshop-details {
   margin: 30px auto;
 }
 
-.about-details{
+.about-details {
   text-align: center;
 }
 
-.margin-adjust{
+.margin-adjust {
   margin: 0 22%;
 }
 
-#header #logo .title-first-white{
+#header #logo .title-first-white {
   font-size: 36px;
   color: #ffffff;
 }
 
-#header #logo .title-first-red{
+#header #logo .title-first-red {
   font-size: 36px;
-  color: #f82249;
+  color: #22f898;
 }
 
-.color-red{
-  color: #f82249;
+.color-red {
+  color: #22f898;
 }
 
 #sponsors .organizer {
   padding: 15px;
 }
 
-#sponsors .organizer img{
+#sponsors .organizer img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 
-#sponsors .organizer .details{
+#sponsors .organizer .details {
   margin-top: 7px;
   text-align: center;
 }
 
-#sponsors .organizer .details p{
+#sponsors .organizer .details p {
   font-size: 13px;
 }
 
-#sponsors .organizer .details h3{
+#sponsors .organizer .details h3 {
   margin-bottom: 5px;
 }
 
@@ -102,23 +102,23 @@ ul.about-details{
   padding: 15px;
 }
 
-#speakers .organizer img{
+#speakers .organizer img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 
-#speakers .organizer .details{
+#speakers .organizer .details {
   margin-top: 7px;
   text-align: center;
 }
 
-#speakers .organizer .details p{
+#speakers .organizer .details p {
   font-size: 13px;
 }
 
-#speakers .organizer .details h3{
+#speakers .organizer .details h3 {
   margin-bottom: 5px;
 }
 
@@ -130,13 +130,13 @@ height:200px;
 } */
 
 @media (max-width:960px) {
-  #schedule .table{
+  #schedule .table {
     font-size: 11px;
   }
 }
 
 @media (max-width:560px) {
-  #schedule .table{
+  #schedule .table {
     font-size: 5px;
   }
 }
@@ -153,7 +153,7 @@ body {
 }
 
 a {
-  color: #f82249;
+  color: #22f898;
   transition: 0.5s;
 }
 
@@ -209,7 +209,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #f82249;
+  background: #22f898;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -251,7 +251,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #22f898;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -312,7 +312,7 @@ h6 {
 }
 
 #header #logo h1 span {
-  color: #f82249;
+  color: #22f898;
 }
 
 #header #logo h1 a,
@@ -352,12 +352,12 @@ h6 {
   white-space: nowrap;
 }
 
-.nav-menu > li {
+.nav-menu>li {
   float: left;
 }
 
-.nav-menu li:hover > ul,
-.nav-menu li.sfHover > ul {
+.nav-menu li:hover>ul,
+.nav-menu li.sfHover>ul {
   display: block;
 }
 
@@ -414,35 +414,35 @@ h6 {
   color: #fff;
 }
 
-.nav-menu > li {
+.nav-menu>li {
   margin-left: 8px;
 }
 
-.nav-menu > li > a:before {
+.nav-menu>li>a:before {
   content: "";
   position: absolute;
   width: 0;
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #f82249;
+  background-color: #22f898;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
 
 .nav-menu a:hover:before,
-.nav-menu li:hover > a:before,
-.nav-menu .menu-active > a:before {
+.nav-menu li:hover>a:before,
+.nav-menu .menu-active>a:before {
   visibility: visible;
   width: 100%;
 }
 
 .nav-menu li.buy-tickets a {
   color: #fff;
-  background: #f82249;
+  background: #22f898;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #f82249;
+  border: 2px solid #22f898;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -482,8 +482,8 @@ h6 {
   border-radius: 3px;
 }
 
-.nav-menu ul li:hover > a {
-  background: #f82249;
+.nav-menu ul li:hover>a {
+  background: #22f898;
   color: #fff;
 }
 
@@ -550,7 +550,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #f82249;
+  color: #22f898;
 }
 
 #mobile-nav ul li li {
@@ -567,11 +567,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #f82249;
+  color: #22f898;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #f82249;
+  color: #22f898;
 }
 
 #mobile-body-overly {
@@ -654,7 +654,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #f82249;
+  color: #22f898;
 }
 
 #intro p {
@@ -666,7 +666,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#22f898 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -713,7 +713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #f82249;
+  border-left: 15px solid #22f898;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -751,11 +751,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 2px solid #22f898;
 }
 
 #intro .about-btn:hover {
-  background: #f82249;
+  background: #22f898;
   color: #fff;
 }
 
@@ -879,7 +879,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #22f898;
 }
 
 #speakers .speaker:hover .details {
@@ -914,7 +914,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #f82249;
+  background: #22f898;
   color: #fff;
 }
 
@@ -959,7 +959,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: #22f898;
   color: #fff;
 }
 
@@ -1132,7 +1132,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #f82249;
+  color: #22f898;
 }
 
 #hotels .stars {
@@ -1182,7 +1182,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #f82249;
+  background-color: #22f898;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1190,7 +1190,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #f82249;
+  border: 6px solid #22f898;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1279,7 +1279,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #f82249;
+  color: #22f898;
 }
 
 #faq #faq-list a.collapsed {
@@ -1332,7 +1332,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #f82249;
+  background: #22f898;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1355,7 +1355,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #buy-tickets .card {
   border: none;
   border-radius: 5px;
-  transition: all  0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
   box-shadow: 0 10px 25px 0 rgba(6, 12, 34, 0.1);
 }
 
@@ -1392,7 +1392,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #22f898;
   border: 0;
   color: #fff;
 }
@@ -1411,7 +1411,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #22f898;
   border: 0;
   color: #fff;
 }
@@ -1437,7 +1437,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #f82249;
+  color: #22f898;
 }
 
 #contact .contact-info address,
@@ -1459,7 +1459,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #f82249;
+  color: #22f898;
 }
 
 #contact .contact-address,
@@ -1469,8 +1469,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #f82249;
-  border: 1px solid #f82249;
+  color: #22f898;
+  border: 1px solid #22f898;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1511,7 +1511,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #f82249;
+  background: #22f898;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1583,7 +1583,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #f82249;
+  background: #22f898;
   color: #fff;
 }
 
@@ -1594,7 +1594,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid #22f898;
 }
 
 #footer .footer-top .footer-links {
@@ -1609,7 +1609,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #f82249;
+  color: #22f898;
   font-size: 18px;
 }
 
@@ -1627,7 +1627,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #f82249;
+  color: #22f898;
 }
 
 #footer .footer-top .footer-contact {
@@ -1649,7 +1649,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #f82249;
+  background: #22f898;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1685,6 +1685,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (min-width: 768px) {
+
   #contact .contact-address,
   #contact .contact-phone,
   #contact .contact-email {
