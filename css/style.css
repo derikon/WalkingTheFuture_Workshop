@@ -25,10 +25,10 @@ ul.about-details {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #22f898;
+  color: #18ce7c;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #22f898;
+  border: 2px solid #18ce7c;
   display: table;
   margin: 0 auto;
 }
@@ -38,14 +38,14 @@ ul.about-details {
 }
 
 #apply-cfp.apply-btn:hover {
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
 }
 
 
 .need-confirmation {
   font-size: 14px;
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #workshop-details {
@@ -67,11 +67,11 @@ ul.about-details {
 
 #header #logo .title-first-red {
   font-size: 36px;
-  color: #22f898;
+  color: #18ce7c;
 }
 
 .color-red {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #sponsors .organizer {
@@ -153,7 +153,7 @@ body {
 }
 
 a {
-  color: #22f898;
+  color: #18ce7c;
   transition: 0.5s;
 }
 
@@ -209,7 +209,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -251,7 +251,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #22f898;
+  background: #18ce7c;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -312,7 +312,7 @@ h6 {
 }
 
 #header #logo h1 span {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #header #logo h1 a,
@@ -425,7 +425,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #22f898;
+  background-color: #18ce7c;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -439,10 +439,10 @@ h6 {
 
 .nav-menu li.buy-tickets a {
   color: #fff;
-  background: #22f898;
+  background: #18ce7c;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #22f898;
+  border: 2px solid #18ce7c;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -483,7 +483,7 @@ h6 {
 }
 
 .nav-menu ul li:hover>a {
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
 }
 
@@ -550,7 +550,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #mobile-nav ul li li {
@@ -567,11 +567,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #mobile-body-overly {
@@ -654,7 +654,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #intro p {
@@ -666,7 +666,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#22f898 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#18ce7c 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -713,7 +713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #22f898;
+  border-left: 15px solid #18ce7c;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -751,11 +751,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #22f898;
+  border: 2px solid #18ce7c;
 }
 
 #intro .about-btn:hover {
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
 }
 
@@ -879,7 +879,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #speakers .speaker:hover .details {
@@ -914,7 +914,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
 }
 
@@ -959,7 +959,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #22f898;
+  background-color: #18ce7c;
   color: #fff;
 }
 
@@ -1132,7 +1132,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #hotels .stars {
@@ -1182,7 +1182,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #22f898;
+  background-color: #18ce7c;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1190,7 +1190,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #22f898;
+  border: 6px solid #18ce7c;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1279,7 +1279,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #faq #faq-list a.collapsed {
@@ -1332,7 +1332,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1392,7 +1392,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #22f898;
+  background-color: #18ce7c;
   border: 0;
   color: #fff;
 }
@@ -1411,7 +1411,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #22f898;
+  background-color: #18ce7c;
   border: 0;
   color: #fff;
 }
@@ -1437,7 +1437,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #contact .contact-info address,
@@ -1459,7 +1459,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #contact .contact-address,
@@ -1469,8 +1469,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #22f898;
-  border: 1px solid #22f898;
+  color: #18ce7c;
+  border: 1px solid #18ce7c;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1511,7 +1511,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #22f898;
+  background: #18ce7c;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1583,7 +1583,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #22f898;
+  background: #18ce7c;
   color: #fff;
 }
 
@@ -1594,7 +1594,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #22f898;
+  border-bottom: 2px solid #18ce7c;
 }
 
 #footer .footer-top .footer-links {
@@ -1609,7 +1609,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #22f898;
+  color: #18ce7c;
   font-size: 18px;
 }
 
@@ -1627,7 +1627,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #22f898;
+  color: #18ce7c;
 }
 
 #footer .footer-top .footer-contact {
@@ -1649,7 +1649,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #22f898;
+  background: #18ce7c;
   border: 0;
   width: 35%;
   padding: 6px 0;
